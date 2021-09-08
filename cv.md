@@ -18,3 +18,22 @@ I would like to became a developer to use my strengths like fast learning, versa
 Now I studying and improving knowledge and skills in JavaScript and React which will be are enough to employment in the company.
 
 ***
+### Skills
+
+* JavaScript
+* React
+* HTML, CSS
+* git
+
+***
+
+### Education
+
+Saint-Petersburg State University of Aerospace Instrumentation (Faculty of law)
+
+***
+
+### Languages
+Russian - native  
+English - Pre-Intermediate  
+German - Intermediate
